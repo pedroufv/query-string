@@ -1,5 +1,5 @@
 {
-    "name": "pams/eloquent-query-string-buildable",
+    "name": "pams/query-string",
     "description": "this package build queries add global scopes on eloquent by request query string",
     "authors": [
         {
